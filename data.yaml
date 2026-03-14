@@ -1,0 +1,7 @@
+path: dataset/Dataset
+train: train
+val: test
+test: test
+
+names:
+  0: license_plate

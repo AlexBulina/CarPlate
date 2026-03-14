@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Ultralytics and training artifacts
+runs/
+
+# Local datasets and large generated assets
+dataset/
+dataset_frames/
+*.zip
+*.pt
+*.onnx
+*.engine
+
+# Local config and notebooks state
+.kaggle/
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
